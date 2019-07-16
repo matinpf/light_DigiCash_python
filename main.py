@@ -1,8 +1,10 @@
 # -*- coding: utf-8 -*-
 """
-Created on Thu Jul 11 11:05:30 2019
+Created on Thu Jul 11 08:39:40 2019
 
-@author: ahora
+https://github.com/matinpf/lightDigiCashppython
+
+@author: matin fallahi
 
 sole1: need sig valu ?
 sole2: half protocol and try same k pair req

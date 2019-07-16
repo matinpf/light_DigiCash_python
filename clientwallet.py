@@ -1,10 +1,10 @@
 # -*- coding: utf-8 -*-
 """
-Created on Thu Jul 11 09:22:32 2019
+Created on Thu Jul 11 08:39:40 2019
 
-@author: ahora
+https://github.com/matinpf/lightDigiCashppython
 
-TODO=dataexpier
+@author: matin fallahi
 """
 import secrets
 import prime

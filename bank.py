@@ -2,7 +2,9 @@
 """
 Created on Thu Jul 11 08:39:40 2019
 
-@author: ahora
+https://github.com/matinpf/lightDigiCashppython
+
+@author: matin fallahi
 """
 import secrets
 import prime
