@@ -2,7 +2,7 @@
 """
 Created on Thu Jul 11 08:39:40 2019
 
-https://github.com/matinpf/lightDigiCashppython
+https://github.com/matinpf/light_DigiCash_python
 
 @author: matin fallahi
 """
